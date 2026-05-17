@@ -42,3 +42,8 @@ Designed for:
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+
+### 2. Run app
+```bash
+streamlit run app.py
+
