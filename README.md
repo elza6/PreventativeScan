@@ -1,4 +1,4 @@
-# 📊 PreventativeScan Feedback Intelligence Tool
+# PreventativeScan Feedback Intelligence Tool
 
 A lightweight analytics tool that transforms unstructured patient feedback into structured operational insights for PreventativeScan’s MRI screening service.
 
@@ -14,7 +14,18 @@ It enables faster, data-driven decision-making for Member Experience and Operati
 
 ---
 
-## How It Works
+##  Features
+
+- Automatic categorization of feedback (e.g., scheduling, staff, billing, wait times)
+- Sentiment analysis (positive / neutral / negative)
+- Severity scoring based on NPS
+- Issue frequency breakdown
+- Location-based segmentation of feedback
+- Alerts for spikes in negative or high-severity responses
+
+---
+
+##  How It Works
 
 A lightweight rule-based classification engine processes feedback text and converts it into structured operational signals.
 
@@ -26,8 +37,9 @@ Designed for:
 
 ---
 
-## 🛠️ How to Run
+##  Running the Application
 
-### 1. Install dependencies
+### 1. Clone the repository
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/YOUR_USERNAME/preventativescan-feedback-tool.git
+cd preventativescan-feedback-tool
