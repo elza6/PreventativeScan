@@ -1,4 +1,4 @@
-# PreventativeScan Feedback Intelligence Tool
+#  PreventativeScan Feedback Tool
 
 A lightweight analytics tool that transforms unstructured patient feedback into structured operational insights for PreventativeScan’s MRI screening service.
 
@@ -37,7 +37,11 @@ Designed for:
 
 ---
 
-##  Running the Application
+##  How to Run
+
+### 1. Install dependencies
+```bash
+pip install -r requirements.txt
 
 ### 1. Clone the repository
 ```bash
