@@ -42,6 +42,3 @@ Designed for:
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
-
-git clone https://github.com/YOUR_USERNAME/preventativescan-feedback-tool.git
-cd preventativescan-feedback-tool
