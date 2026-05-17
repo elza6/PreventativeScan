@@ -1,26 +1,33 @@
-# PreventativeScan Feedback Analysis Tool
+# 📊 PreventativeScan Feedback Intelligence Tool
 
-## Overview
-This tool analyzes member feedback from PreventativeScan’s MRI screening service to identify key operational issues, sentiment trends, and high-severity experiences.
+A lightweight analytics tool that transforms unstructured patient feedback into structured operational insights for PreventativeScan’s MRI screening service.
 
----
-
-## Features
-- Automatic categorization of feedback
-- Sentiment analysis (positive / neutral / negative)
-- Severity scoring based on NPS
-- Issue frequency analysis
-- Location-based segmentation
-- Alerting for negative or high-severity spikes
+Built to help teams identify experience issues, monitor sentiment trends, and detect operational risks during rapid scaling.
 
 ---
 
-## How to Run
+##  Overview
+
+This tool analyzes member feedback from PreventativeScan’s MRI screening service to surface key drivers of patient experience, including operational friction points, sentiment shifts, and high-severity cases.
+
+It enables faster, data-driven decision-making for Member Experience and Operations teams.
+
+---
+
+## How It Works
+
+A lightweight rule-based classification engine processes feedback text and converts it into structured operational signals.
+
+Designed for:
+- Speed
+- Reliability
+- Interpretability
+- No external API dependency
+
+---
+
+## 🛠️ How to Run
 
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
-
-### 2. Run the App
-```bash
-streamlit run app.py
