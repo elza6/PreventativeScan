@@ -1,6 +1,6 @@
 #  PreventativeScan Feedback Tool
 
-A lightweight analytics tool that transforms unstructured patient feedback into structured operational insights for PreventativeScan’s MRI screening service.
+An analytics tool that transforms unstructured patient feedback into structured operational insights for PreventativeScan’s MRI screening service.
 
 Built to help teams identify experience issues, monitor sentiment trends, and detect operational risks during rapid scaling.
 
